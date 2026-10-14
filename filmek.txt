@@ -1,0 +1,4 @@
+﻿Avatar 2;120;2500
+Star Wars;85;2200
+Oppenheimer;150;2800
+Barbie;95;2400
